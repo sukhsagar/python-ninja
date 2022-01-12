@@ -8,5 +8,5 @@ for i in range(1, len(aList)):
 		j=j-1
 	else:
 		aList[j+1] = key
-	print("List after iteration : ",i," is: ",aList)
+	print("List after the iteration : ",i," is: ",aList)
 print("List after sorting :", aList)
